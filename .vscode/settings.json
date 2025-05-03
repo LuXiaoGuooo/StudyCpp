@@ -7,3 +7,5 @@
         "ostream": "cpp"
     }
 }
+
+// 这段代码是一个 ​​JSON 格式的配置文件​​，通常用于 ​​Visual Studio Code (VSCode)​​ 或其他支持 JSON 配置的编辑器/IDE。它的作用是 ​​自定义文件关联​​（File Associations），即告诉编辑器如何识别和处理特定扩展名的文件。
